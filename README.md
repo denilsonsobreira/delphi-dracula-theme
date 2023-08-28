@@ -1,5 +1,5 @@
 # Delphi-dracula-theme
-<h1>XML File for dracula theme in delphi</h1>
+<h3>XML File for dracula theme in delphi</h3>
 
 
 To use these themes you need to have <a href="https://github.com/RRUZ/delphi-ide-theme-editor" target="_blank">DITE</a>
